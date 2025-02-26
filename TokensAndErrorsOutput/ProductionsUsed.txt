@@ -1,0 +1,25 @@
+Type -> int | float
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+Stmt -> CompoundStmt
+CompoundStmt -> { StmtList }
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+Stmt -> Expr ; | ;
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+Compare -> == | < | > | <= | >= | != | <>
+Type -> int | float
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+Compare -> == | < | > | <= | >= | != | <>
+Stmt -> CompoundStmt
+CompoundStmt -> { StmtList }
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null
+IdentList -> identifier IdentList'
+IdentList' -> , identifier IdentList' | null

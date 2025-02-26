@@ -1,0 +1,21 @@
+Token Number:          1 :        int   |              Keyword
+Token Number:          2 :    khubaib   | Identifier
+Token Number:          3 :          (   |       Special Symbol
+Token Number:          4 :          )   |       Special Symbol
+Token Number:          5 :          {   |       Special Symbol
+Token Number:          6 :       intt   | Identifier
+Token Number:          7 :       else   |              Keyword
+Token Number:          8 :          ;   |       Special Symbol
+Token Number:          9 :          }   |       Special Symbol
+Token Number:         10 :       auto   | Identifier
+Token Number:         11 :    _getGet   | Identifier
+Token Number:         12 :          <   |             Operator , LSHFT OR Less
+Token Number:         13 :      float   |              Keyword
+Token Number:         14 :          :   |       Special Symbol , Colon
+Token Number:         15 :         _y   | Identifier
+Token Number:         16 :          >   |             Operator , RSHFT OR Greater
+Token Number:         17 :          {   |       Special Symbol
+Token Number:         18 :     return   |              Keyword
+Token Number:         19 :       this   | Identifier
+Token Number:         20 :          :   |       Special Symbol , Colon
+Token Number:         21 :          }   |       Special Symbol
