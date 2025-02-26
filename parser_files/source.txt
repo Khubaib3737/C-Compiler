@@ -1,0 +1,12 @@
+int khubaib()
+{
+intt else;
+
+
+}
+
+auto _getGet <float : _y>
+{
+	return this:
+} 
+
